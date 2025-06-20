@@ -17,7 +17,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
-    "homepage": "https://github.com/phenyxdigitale/digitalSpreadSheet",
+    "homepage": "https://github.com/ephenyxdigitale/digitalSpreadSheet",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -85,7 +85,7 @@
     },
     "autoload": {
         "psr-4": {
-            "phenyxDigitale\\digitalSpreadSheet\\": "src/digitalSpreadSheet"
+            "ephenyxDigitale\\digitalSpreadSheet\\": "src/digitalSpreadSheet"
         }
     }
 }
