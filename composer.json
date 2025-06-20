@@ -1,5 +1,5 @@
 {
-    "name": "ephenyxdigitale/digitalspreadsheet",
+    "name": "ephenyxdigital/digitalspreadsheet",
     "description": "digitalSpreadSheet - Read, Create and Write Xlssheet documents in PHP - Xlssheet engine",
     "keywords": [
         "PHP",
@@ -17,7 +17,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
-    "homepage": "https://github.com/ephenyxdigitale/digitalSpreadSheet",
+    "homepage": "https://github.com/ephenyxdigital/digitalSpreadSheet",
     "type": "library",
     "license": "MIT",
     "authors": [
